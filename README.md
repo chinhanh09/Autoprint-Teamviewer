@@ -1,7 +1,7 @@
 # Autoprint Teamviewer
 
-**--- Cần tắt các chương trình diệt Virus trước khi cài đặt do Tool được viết bằng AutoIT nên nhiều chương trình Virus sẽ nhận nhầm.
-**
+<b>--- Cần tắt các chương trình diệt Virus trước khi cài đặt do Tool được viết bằng AutoIT nên nhiều chương trình Virus sẽ nhận nhầm.</b>
+
 --- Cài đặt Teamviewer trên PC
 
 --- Cài đặt App QuickSupport trên thiết bị Android
