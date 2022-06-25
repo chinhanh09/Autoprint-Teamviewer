@@ -10,4 +10,8 @@
 
 --- Mở Tool và cài đặt các thông số cho Tool trong lần đầu sử dụng, những lần sau đó chỉ cần nhắn Bắt đầu là sử dụng được
 
-
+------------CÁC LỖI THƯỜNG GẶP----------------
+- Lỗi không in giao dịch 
+    + Tắt Tool mở lại sau đó thiết lập lại hình ảnh
+- Giấy in ra quá dài
+    + Điều chỉnh lề của file in trong NotePad -> Page Setup -> điều chỉnh lại Top - Bottom =0, Header & Footer bỏ trống
