@@ -1,6 +1,6 @@
 # Autoprint Teamviewer
 
-<b><color=red>--- Cần tắt các chương trình diệt Virus trước khi cài đặt do Tool được viết bằng AutoIT nên nhiều chương trình Virus sẽ nhận nhầm.</color></b>
+<b><i>--- Cần tắt các chương trình diệt Virus trước khi cài đặt do Tool được viết bằng AutoIT nên nhiều chương trình Virus sẽ nhận nhầm.</i></b>
 
 --- Cài đặt Teamviewer trên PC
 
